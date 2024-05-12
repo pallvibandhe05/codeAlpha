@@ -1,1 +1,1 @@
-# codeAlpha
+hey this is Pallvi Bandhe.This was task 1 of my web development internship at @codeAlpha. The task was to make an Age Calculator using HTML, CSS and JavaScript. this project is responsive as well as interactive.
